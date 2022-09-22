@@ -3,8 +3,8 @@ import datetime
 from itertools import combinations
 
 
-CAPACITY = 50
-file_path = "csv/5actions.csv"
+CAPACITY = 500
+file_path = "csv/20actions.csv"
 
 
 def load_file(file_path):
