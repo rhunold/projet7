@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/30554290/how-to-derive-all-solutions-from-kn
 """
 MAX_VALUE = 500
 
-file_path = "csv/d1actions.csv"
+file_path = "csv/20actions.csv"
 
 
 def load_file(file_path):
